@@ -1,0 +1,10 @@
+{
+  "name": "fps-game",
+  "version": "1.0.0",
+  "dependencies": {
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "three": "^0.128.0"
+  }
+}
